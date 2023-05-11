@@ -1,0 +1,60 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "orders": [
+        {
+          "id": 10,
+          "product": "Laptop",
+          "quantity": 1
+        },
+        {
+          "id": 11,
+          "product": "Headphones",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "orders": [
+        {
+          "id": 12,
+          "product": "Smartphone",
+          "quantity": 1
+        },
+        {
+          "id": 13,
+          "product": "Tablet",
+          "quantity": 1
+        },
+        {
+          "id": 14,
+          "product": "Bluetooth Speaker",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alice Brown",
+      "email": "alice.brown@example.com",
+      "orders": [
+        {
+          "id": 15,
+          "product": "Camera",
+          "quantity": 1
+        },
+        {
+          "id": 16,
+          "product": "SD Card",
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}
